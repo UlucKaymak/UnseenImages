@@ -1,12 +1,16 @@
+
 # 🎨 Unseen Images
-**Unseen Images** is an automated art bot that selects a random artwork from open museum APIs (like The Met or WikiArt), analyzes its color palette, and posts the result on Twitter — including the artwork's title, artist name, and palette image.
+**Unseen Images** is a deconstructive visual art project that produces visual sensory data without showing the main image behind the data.
 
 ## 🖼️ Features
-
 - Fetches artworks from selected Museum archives and selected keywords
 - Downloads the image and extracts dominant colors
 - Generates a color palette preview
 - Posts the artwork’s title, artist, and palette image on Twitter
 - Avoids reposting previously shared artworks by tracking used IDs
 
-- 
+# Links and Examples
+[UlucKaymak.com/UnseenImages](https://www.uluckaymak.com/project/ulucart-unseenimages)
+[x.com/UnseenImages](https://x.com/UnseenbyUluc)
+
+![enter image description here](https://static.wixstatic.com/media/2352c3_c121c793d48e418dbaba6cadd157222a~mv2.jpeg/v1/fit/w_1548,h_750,q_90,enc_avif,quality_auto/2352c3_c121c793d48e418dbaba6cadd157222a~mv2.jpeg)![enter image description here](https://static.wixstatic.com/media/2352c3_bda30e933c0f4bc29cbcd23a6b9de287~mv2.jpeg/v1/fit/w_1548,h_750,q_90,enc_avif,quality_auto/2352c3_bda30e933c0f4bc29cbcd23a6b9de287~mv2.jpeg)
