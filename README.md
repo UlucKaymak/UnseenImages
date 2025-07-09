@@ -9,6 +9,9 @@
 - Posts the artwork’s title, artist, and palette image on Twitter
 - Avoids reposting previously shared artworks by tracking used IDs
 
+### Personal note
+I started this project before I saw what a racist, misogynistic and other kind of garbage place Twitter is. I quit because I grew disappointment with the platform over time.
+
 # Links and Examples
 [🔗 UlucKaymak.com/UnseenImages](https://www.uluckaymak.com/project/ulucart-unseenimages)
 
